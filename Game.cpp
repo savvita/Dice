@@ -13,4 +13,4 @@ int main()
 	
 	cout << set << "\n";
 	cout << set.totalSum() << "\n";
-}
+} 

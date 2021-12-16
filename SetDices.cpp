@@ -9,7 +9,7 @@ SetDices::SetDices(int size)
 	}
 	else
 	{
-		size = 0;
+		size = 0; 
 	}
 }
 

@@ -11,7 +11,7 @@ public:
 	explicit Dice(int value)
 	{
 		this->setValue(value);
-	}
+	} 
 
 	//sets
 	void setValue(int value);

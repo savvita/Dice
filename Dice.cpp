@@ -6,7 +6,7 @@ Dice::Dice()
 	this->value = 1;
 }
 
-void Dice::setValue(int value)
+void Dice::setValue(int value) 
 {
 	if (value >= 1 && value <= 6)
 		this->value = value;
